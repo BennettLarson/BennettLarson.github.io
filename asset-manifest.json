@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BennettLarson.github.io/static/css/main.02aaef78.chunk.css",
+    "main.js": "/BennettLarson.github.io/static/js/main.f590a09d.chunk.js",
+    "main.js.map": "/BennettLarson.github.io/static/js/main.f590a09d.chunk.js.map",
+    "runtime-main.js": "/BennettLarson.github.io/static/js/runtime-main.0e93beea.js",
+    "runtime-main.js.map": "/BennettLarson.github.io/static/js/runtime-main.0e93beea.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/BennettLarson.github.io/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.397ae67a.chunk.js": "/BennettLarson.github.io/static/js/2.397ae67a.chunk.js",
+    "static/js/2.397ae67a.chunk.js.map": "/BennettLarson.github.io/static/js/2.397ae67a.chunk.js.map",
+    "static/js/3.98906bad.chunk.js": "/BennettLarson.github.io/static/js/3.98906bad.chunk.js",
+    "static/js/3.98906bad.chunk.js.map": "/BennettLarson.github.io/static/js/3.98906bad.chunk.js.map",
+    "index.html": "/BennettLarson.github.io/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/BennettLarson.github.io/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.02aaef78.chunk.css.map": "/BennettLarson.github.io/static/css/main.02aaef78.chunk.css.map",
+    "static/js/2.397ae67a.chunk.js.LICENSE.txt": "/BennettLarson.github.io/static/js/2.397ae67a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e93beea.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.397ae67a.chunk.js",
+    "static/css/main.02aaef78.chunk.css",
+    "static/js/main.f590a09d.chunk.js"
+  ]
+}
